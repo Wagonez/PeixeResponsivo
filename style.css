@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.flexivel{
+    background-color: darkgray;
+    display: flex;
+    flex-flow: column wrap;
+}
+.ar1{
+    display: flex;
+    flex-flow: row wrap;
+}
+.ar2{
+    display: flex;
+    flex-flow: row wrap;
+}
+.texto{
+    flex: 1 1 500px;
+}
+.media{
+    flex: 1 0 400px;
+}
